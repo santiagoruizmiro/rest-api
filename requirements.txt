@@ -1,0 +1,3 @@
+flask #aca contiene todas las bibliotecas de las que depende el  proyecto
+flask-smorest
+python-dotenv
